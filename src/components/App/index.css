@@ -1,0 +1,13 @@
+.app {
+  margin: 20px;
+}
+
+.title-page {
+    text-align: center;
+}
+
+.home-content {
+  display: block;
+  margin-right: 25%;
+  margin-left: 25%;
+}
